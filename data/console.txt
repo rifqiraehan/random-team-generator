@@ -1,0 +1,99 @@
+HASIL YANG DIHARAPKAN SAAT PROGRAM BERJALAN
+
+Masukkan daftar anggota (enter dua kali untuk konfirmasi):
+Irsyad A.
+Nabil
+Sisca $
+Raehan
+Nabiilah $
+Ghori
+Putri $
+Atho'
+Andika
+Seviola $
+
+
+Masukkan jumlah Anggota per Kelompok: 3
+
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 1
+
+Metode Distribusi = 1
+
+Kelompok 1:
+Andika
+Irsyad A.
+Nabil
+
+Kelompok 2:
+Atho'
+Raehan
+Ghori
+
+Kelompok 3:
+Sisca $
+Nabiilah $
+Putri $
+Seviola $
+
+Acak lagi? (y/n): n
+
+--------------------------------------------------------------------
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 2
+
+Metode Distribusi = 2
+
+Kelompok 1:
+Irsyad A.
+Nabil
+Sisca $
+
+Kelompok 2:
+Raehan
+Ghori
+Nabiilah $
+
+Kelompok 3:
+Atho'
+Andika
+Nabiilah $
+Putri $
+
+Acak lagi? (y/n): n
+
+--------------------------------------------------------------------
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 3
+
+Metode Distribusi = 3
+
+Kelompok 1:
+Nabiilah $
+Atho'
+Raehan
+Ghori
+
+Kelompok 2:
+Nabil
+Andika
+Putri $
+
+Kelompok 3:
+Sisca $
+Seviola $
+Irsyad A.
+
+Acak lagi? (y/n): n
