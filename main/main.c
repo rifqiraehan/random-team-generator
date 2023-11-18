@@ -68,14 +68,6 @@ int main() {
         data.anggotaKeseluruhan[index++] = data.anggotaSpesial[i];
     }
 
-    for (i = 0; i < jumlahAnggotaBiasa; i++) {
-        data.anggotaBiasa[i];
-    }
-
-    for (i = 0; i < jumlahAnggotaSpesial; i++) {
-        data.anggotaSpesial[i];
-    }
-
     for (i = 0; i <= jumlahAnggotaBiasa && i <= jumlahAnggotaSpesial; i++) {
         data.anggotaKeseluruhan[index++] = data.anggotaBiasa[i];
         data.anggotaKeseluruhan[index++] = data.anggotaSpesial[i];
