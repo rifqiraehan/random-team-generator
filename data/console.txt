@@ -1,0 +1,132 @@
+Masukkan daftar anggota (enter dua kali untuk konfirmasi):
+Irsyad A.
+Nabil
+Sisca $
+Raehan
+Nabiilah $
+Ghori
+Putri $
+Atho'
+Andika
+Seviola $
+
+
+Masukkan jumlah Anggota per Kelompok: 3
+
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 1
+
+Metode Distribusi = 1
+
+Kelompok 1:
+Andika
+Irsyad A.
+Nabil
+
+Kelompok 2:
+Atho'
+Raehan
+Ghori
+
+Kelompok 3:
+Sisca $
+Nabiilah $
+Putri $
+Seviola $
+
+Acak lagi? (y/n):
+
+
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 2
+
+Metode Distribusi = 2
+
+Kelompok 1:
+Irsyad A.
+Nabil
+Sisca $
+
+Kelompok 2:
+Raehan
+Ghori
+Nabiilah $
+
+Kelompok 3:
+Atho'
+Andika
+Nabiilah $
+Putri $
+
+Acak lagi? (y/n):
+
+
+Metode Distribusi:
+1. Semua anggota spesial dalam kelompok yang sama
+2. Hanya satu anggota spesial per kelompok
+3. Distribusi acak
+
+Pilih antara 1 sampai 3: 3
+
+Metode Distribusi = 3
+
+Kelompok 1:
+Nabiilah $
+Atho'
+Raehan
+Ghori
+
+Kelompok 2:
+Nabil
+Andika
+Putri $
+
+Kelompok 3:
+Sisca $
+Seviola $
+Irsyad A.
+
+Acak lagi? (y/n):
+
+
+
+
+
+
+
+Pada bahasa C, saya memiliki 3 variabel yaitu
+1. genap = 2, 4, 6
+2. nonGenap = 1, 3, 5, 7, 9, 11
+3. gabungan (gabungan genap dan nonGenap.) = 2, 4, 6, 1, 3, 5, 7, 9, 11
+
+saya ingin membuat kelompok acak dari variabel diatas dengan 3 metode distribusi berikut:
+1. Semua anggota genap dalam kelompok yang sama
+2. Hanya satu anggota genap per kelompok
+3. Distribusi acak
+
+jumlah anggota per kelompok dan metode distribusi ditentukan oleh user, tidak boleh terdapat data yang berulang atau sama pada setiap kelompok, seperti nilai 2 pada kelompok 1 yang juga terdapat pada kelompok 3.
+contoh output:
+Masukkan jumlah anggota per kelompok: 3
+Masukkan metode distribusi: 2
+Kelompok 1
+2
+1
+7
+
+Kelompok 2
+4
+3
+11
+
+Kelompok 3
+6
+9
+5

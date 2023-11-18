@@ -1,0 +1,117 @@
+Copy member list disini, pilih salah satu style, tempel dengan menggunakan Shift + Insert (bukan )
+
+NAMA + NRP
+Muhammad Irsyad Alkais (3223600001)
+Muh. Nabil Falah Makarim (3223600002)
+Fransisca Najwa Putri Wibowo (3223600003)$
+Rifqi Raehan Hermawan (3223600004)
+Nabiilah Diar Shakila Sari (3223600005)$
+Ghori Ghuraishi Mulyadi (3223600006)
+Putri Cahyani Alfaiqoh (3223600007)$
+Muhammad Ibnu Atho'illah (3223600009)
+Andika Nugraha (3223600010)
+Seviola Indah Safitri (3223600011)$
+Aria Alvanza Angzola Adi (3223600012)
+Muhamad Beril Fikri Widjaya (3223600013)
+Anggoro redi saputro (3223600014)
+Nathaniel Eden Amory (3223600015)
+Ahmad Maulana Maghrobi (3223600016)
+Muhammad Alfarrel Arya Mahardika (3223600017)
+Muhammad Hisyam Arrafi (3223600018)
+Muhammad Bimo Fachrizky (3223600019)
+Husain Anshoruddin (3223600020)
+Zulkipli Siregar (3223600021)
+Muhammad Bintang Saputra (3223600023)
+Gusti Hawa Sa'bania Bukian (3223600024)$
+Moch. Arif Ilman Huda (3223600025)
+Mohamad Irsyad Virgianto (3223600026)
+Arum Sari Nur Chasanah (3223600027)$
+Albertus Kurdi Kamiop Taup (3223600028)
+Syauqi Nabil Falah(3223600029)
+
+NRP SINGKAT + NAMA + NRP
+1. Muhammad Irsyad Alkais (3223600001)
+2. Muh. Nabil Falah Makarim (3223600002)
+3. Fransisca Najwa Putri Wibowo (3223600003)$
+4. Rifqi Raehan Hermawan (3223600004)
+5. Nabiilah Diar Shakila Sari (3223600005)$
+6. Ghori Ghuraishi Mulyadi (3223600006)
+7. Putri Cahyani Alfaiqoh (3223600007)$
+9. Muhammad Ibnu Atho'illah (3223600009)
+10. Andika Nugraha (3223600010)
+11. Seviola Indah Safitri (3223600011)$
+12. Aria Alvanza Angzola Adi (3223600012)
+13. Muhamad Beril Fikri Widjaya (3223600013)
+14. Anggoro redi saputro (3223600014)
+15. Nathaniel Eden Amory (3223600015)
+16. Ahmad Maulana Maghrobi (3223600016)
+17. Muhammad Alfarrel Arya Mahardika (3223600017)
+18. Muhammad Hisyam Arrafi (3223600018)
+19. Muhammad Bimo Fachrizky (3223600019)
+20. Husain Anshoruddin (3223600020)
+21. Zulkipli Siregar (3223600021)
+23. Muhammad Bintang Saputra (3223600023)
+24. Gusti Hawa Sa'bania Bukian (3223600024)$
+25. Moch. Arif Ilman Huda (3223600025)
+26. Mohamad Irsyad Virgianto (3223600026)
+27. Arum Sari Nur Chasanah (3223600027)$
+28. Albertus Kurdi Kamiop Taup (3223600028)
+29. Syauqi Nabil Falah(3223600029)
+
+NRP SINGKAT + NAMA
+1. Muhammad Irsyad Alkais
+2. Muh. Nabil Falah Makarim
+3. Fransisca Najwa Putri Wibowo $
+4. Rifqi Raehan Hermawan
+5. Nabiilah Diar Shakila Sari $
+6. Ghori Ghuraishi Mulyadi
+7. Putri Cahyani Alfaiqoh $
+9. Muhammad Ibnu Atho'illah
+10. Andika Nugraha
+11. Seviola Indah Safitri $
+12. Aria Alvanza Angzola Adi
+13. Muhamad Beril Fikri Widjaya
+14. Anggoro redi saputro
+15. Nathaniel Eden Amory
+16. Ahmad Maulana Maghrobi
+17. Muhammad Alfarrel Arya Mahardika
+18. Muhammad Hisyam Arrafi
+19. Muhammad Bimo Fachrizky
+20. Husain Anshoruddin
+21. Zulkipli Siregar
+23. Muhammad Bintang Saputra
+24. Gusti Hawa Sa'bania Bukian $
+25. Moch. Arif Ilman Huda
+26. Mohamad Irsyad Virgianto
+27. Arum Sari Nur Chasanah $
+28. Albertus Kurdi Kamiop Taup
+29. Syauqi Nabil Falah
+
+Irsyad A.
+Nabil
+Sisca $
+Raehan
+Nabiilah $
+Ghori
+Putri $
+Atho'
+Andika
+Seviola $
+
+Alvan
+Beril
+Angga
+Eden
+Robi
+Farrel
+Hisyam
+Bimo
+Husain
+Zulkipli
+Bintang
+Hawa $
+Arif
+Irsyad V.
+Arum $
+Abe
+Syauqi
