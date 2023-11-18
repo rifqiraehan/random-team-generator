@@ -37,6 +37,38 @@ void randomDistribute(char *arr[], int n) {
     }
 }
 
+// Deklarasi fungsi untuk distribusi pada metode 3 dan default
+void distributeMethod3AndDefault(char *arr[], int totalAnggota, int jumlahAnggotaPerKelompok) {
+    // melakukan pengacakan pada semua anggota
+    randomDistribute(arr, totalAnggota);
+
+    // menghitung total kelompok
+    int totalKelompok = totalAnggota / jumlahAnggotaPerKelompok;
+
+    // menghitung sisa anggota. Sisa anggota terjadi ketika jumlah anggota tidak habis dibagi dengan jumlah anggota per kelompok
+    int anggotaSisa = totalAnggota % jumlahAnggotaPerKelompok;
+
+    // mencetak anggota pada setiap kelompok
+    for (int i = 0; i < totalKelompok; i++) {
+        printf("Kelompok %d:\n", i + 1);
+        for (int j = 0; j < jumlahAnggotaPerKelompok; j++) {
+            printf("%s\n", arr[i * jumlahAnggotaPerKelompok + j]);
+        }
+
+        // mencetak baris kosong jika bukan kelompok terakhir
+        if (i != totalKelompok - 1) {
+            printf("\n");
+        }
+    }
+
+    // mencetak anggota sisa (jika ada) pada kelompok terakhir
+    if (anggotaSisa > 0) {
+        for (int i = 0; i < anggotaSisa; i++) {
+            printf("%s\n", arr[totalKelompok * jumlahAnggotaPerKelompok + i]);
+        }
+    }
+}
+
 int main() {
     srand(time(NULL));
 
@@ -158,52 +190,14 @@ int main() {
         case 3:
             printf("\nMetode Distribusi = 3\n\n");
 
-            randomDistribute(data.anggotaKeseluruhan, totalAnggota);
+            distributeMethod3AndDefault(data.anggotaKeseluruhan, totalAnggota, jumlahAnggotaPerKelompok);
 
-            totalKelompok = totalAnggota / jumlahAnggotaPerKelompok;
-            anggotaSisa = totalAnggota % jumlahAnggotaPerKelompok;
-
-            for (i = 0; i < totalKelompok; i++) {
-                printf("Kelompok %d:\n", i + 1);
-                for (j = 0; j < jumlahAnggotaPerKelompok; j++) {
-                    printf("%s\n", data.anggotaKeseluruhan[i * jumlahAnggotaPerKelompok + j]);
-                }
-
-                if (i != totalKelompok - 1) {
-                    printf("\n");
-                }
-            }
-
-            if (anggotaSisa > 0) {
-                for (i = 0; i < anggotaSisa; i++) {
-                    printf("%s\n", data.anggotaKeseluruhan[totalKelompok * jumlahAnggotaPerKelompok + i]);
-                }
-            }
             break;
         default:
             printf("\nMetode Distribusi = 3\n\n");
 
-            randomDistribute(data.anggotaKeseluruhan, totalAnggota);
+            distributeMethod3AndDefault(data.anggotaKeseluruhan, totalAnggota, jumlahAnggotaPerKelompok);
 
-            totalKelompok = totalAnggota / jumlahAnggotaPerKelompok;
-            anggotaSisa = totalAnggota % jumlahAnggotaPerKelompok;
-
-            for (i = 0; i < totalKelompok; i++) {
-                printf("Kelompok %d:\n", i + 1);
-                for (j = 0; j < jumlahAnggotaPerKelompok; j++) {
-                    printf("%s\n", data.anggotaKeseluruhan[i * jumlahAnggotaPerKelompok + j]);
-                }
-
-                if (i != totalKelompok - 1) {
-                    printf("\n");
-                }
-            }
-
-            if (anggotaSisa > 0) {
-                for (i = 0; i < anggotaSisa; i++) {
-                    printf("%s\n", data.anggotaKeseluruhan[totalKelompok * jumlahAnggotaPerKelompok + i]);
-                }
-            }
             break;
         }
 
